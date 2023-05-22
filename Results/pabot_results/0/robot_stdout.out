@@ -1,0 +1,15 @@
+==============================================================================
+WikipediaPalindrome :: This test suite uses the custom Python function pali...
+==============================================================================
+Should be able to access landing page :: Verify that user can acce... | PASS |
+------------------------------------------------------------------------------
+Should be able to enter a search query :: Verify that user can sub... | PASS |
+------------------------------------------------------------------------------
+Should be able to view result page :: Verify that result page load... | PASS |
+------------------------------------------------------------------------------
+Should be able to return list of palindromes from page :: Verify t... | PASS |
+------------------------------------------------------------------------------
+WikipediaPalindrome :: This test suite uses the custom Python func... | PASS |
+4 tests, 4 passed, 0 failed
+==============================================================================
+Output:  C:\development\robot-scripts\WikipediaPalindrome\Results\pabot_results\0\output.xml
